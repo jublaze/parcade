@@ -1,0 +1,106 @@
+{
+  "title": "6th Grade Percentages Practice (10 questions)",
+  "time_limit_seconds": 0,
+  "questions": [
+    {
+      "id": 1,
+      "skill": "Percent discount",
+      "prompt": "Johnny Apple\u2019s Store sells crates of apples for $20 each. He runs a sale for 20% off. What is the sale price of one crate?",
+      "type": "numeric",
+      "answer": 16,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 2,
+      "skill": "Percent of a number",
+      "prompt": "A hoodie costs $45. The sales tax is 8%. How much is the sales tax (in dollars)?",
+      "type": "numeric",
+      "answer": 3.6,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 3,
+      "skill": "Tip",
+      "prompt": "A restaurant bill is $32.50. You leave a 15% tip. How much is the tip (in dollars)?",
+      "type": "numeric",
+      "answer": 4.875,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 4,
+      "skill": "Percent increase",
+      "prompt": "A bike costs $120. The price increases by 25%. What is the new price?",
+      "type": "numeric",
+      "answer": 150,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 5,
+      "skill": "Percent decrease",
+      "prompt": "A video game was $60, and the price decreased by 30%. What is the new price?",
+      "type": "numeric",
+      "answer": 42,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 6,
+      "skill": "Finding original amount",
+      "prompt": "After a 20% discount, a jacket costs $56. What was the original price before the discount?",
+      "type": "numeric",
+      "answer": 70,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 7,
+      "skill": "Percent of a quantity",
+      "prompt": "A class has 28 students. 25% of them are in band. How many students are in band?",
+      "type": "numeric",
+      "answer": 7,
+      "unit": "students",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 8,
+      "skill": "Percent change",
+      "prompt": "A library had 200 books in the new-arrivals section. It added 10% more books. How many books are there now?",
+      "type": "numeric",
+      "answer": 220,
+      "unit": "books",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 9,
+      "skill": "Equivalent percent",
+      "prompt": "A bottle is 3/4 full. What percent full is it?",
+      "type": "numeric",
+      "answer": 75,
+      "unit": "percent",
+      "tolerance": 0.01,
+      "choices": []
+    },
+    {
+      "id": 10,
+      "skill": "Multi-step: discount then tax",
+      "prompt": "A backpack costs $40. It is discounted by 10%, then sales tax of 5% is added to the discounted price. What is the final price?",
+      "type": "numeric",
+      "answer": 37.8,
+      "unit": "dollars",
+      "tolerance": 0.01,
+      "choices": []
+    }
+  ]
+}

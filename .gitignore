@@ -1,0 +1,10 @@
+.runtime/
+node_modules/
+dist/
+
+# Browser test runtime artifacts
+playwright-report/
+test-results/
+blob-report/
+*.trace.zip
+*.webm

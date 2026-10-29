@@ -1,0 +1,74 @@
+{
+  "quiz_id": "spelling-week-01",
+  "title": "Grade 4 Spelling — Sample",
+  "type": "spelling",
+  "grade": 4,
+  "language": "en-US",
+  "settings": {
+    "extraWordBank": "grade4",
+    "defaultExtraWordCount": 5,
+    "shuffle": true
+  },
+  "words": [
+    {
+      "id": 1,
+      "word": "curious",
+      "category": "weekly",
+      "sentence": "The curious child explored the garden."
+    },
+    {
+      "id": 2,
+      "word": "adventure",
+      "category": "weekly",
+      "sentence": "Our adventure began in the mountains."
+    },
+    {
+      "id": 3,
+      "word": "their",
+      "category": "weekly",
+      "sentence": "The students packed their backpacks."
+    },
+    {
+      "id": 4,
+      "word": "because",
+      "category": "weekly",
+      "sentence": "We stayed inside because it rained."
+    },
+    {
+      "id": 5,
+      "word": "friend",
+      "category": "weekly",
+      "sentence": "My friend helped me study."
+    },
+    {
+      "id": 6,
+      "word": "journey",
+      "category": "weekly",
+      "sentence": "Our journey took three days."
+    },
+    {
+      "id": 7,
+      "word": "practice",
+      "category": "weekly",
+      "sentence": "Daily practice helps us learn."
+    },
+    {
+      "id": 8,
+      "word": "thought",
+      "category": "weekly",
+      "sentence": "I thought about the answer."
+    },
+    {
+      "id": 9,
+      "word": "through",
+      "category": "weekly",
+      "sentence": "We walked through the gate."
+    },
+    {
+      "id": 10,
+      "word": "wonderful",
+      "category": "weekly",
+      "sentence": "We had a wonderful time at the museum."
+    }
+  ]
+}
